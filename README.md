@@ -17,6 +17,9 @@ The "Automation of Spotify Playlist Creation using High Dimensional Data with K-
 
 The project uses high dimensional data from the Spotify API, including audio features such as danceability, energy, and tempo, to analyze a user's music preferences. The K-means clustering algorithm is then used to cluster the songs based on these features and create playlists that reflect the user's taste. The algorithm is trained using a dataset of songs that are similar to the user's preferences and can create playlists with high accuracy.
 
+![image](https://github.com/PurnaChandar26/Automation-of-Spotify-playlist-creation-K_Means/assets/97793147/1ffb1faa-6885-4a44-a83a-69e4677738c7)
+
+
 ## Results:
 
 The project has been successfully implemented and tested, and the results are promising. The playlists created by the algorithm are highly personalized and reflect the user's music preferences. The algorithm can also adapt to changes in the user's preferences and update the playlists accordingly.
