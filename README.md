@@ -1,4 +1,4 @@
-# Automation of Spotify playlist creation using high dimensional data with K-means clustering algorithm12123
+# Automation of Spotify playlist creation using high dimensional data with K-means clustering algorithm121
 
 ### The goal of this project is to use a clustering algorithm to break down a large playlist into smaller ones..
 
