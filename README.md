@@ -11,7 +11,7 @@ K-Means is the most popular clustering algorithm. It uses an iterative technique
 ## Introduction:
 
 The "Automation of Spotify Playlist Creation using High Dimensional Data with K-means Clustering Algorithm" project is aimed at creating an intelligent music recommendation system that creates playlists automatically based on a user's music preferences. This project uses high dimensional data and the K-means clustering algorithm to analyze a user's music preferences and create playlists that reflect their taste.
-
+ 
 
 ## Methodology:
 
